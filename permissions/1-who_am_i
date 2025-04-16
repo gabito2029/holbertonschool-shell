@@ -1,1 +1,1 @@
-whoami
+echo "whoami" > 1-who_am_i
